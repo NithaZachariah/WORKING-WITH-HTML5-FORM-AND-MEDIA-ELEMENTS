@@ -189,3 +189,7 @@
 
 </body>
 </html>
+
+OUTPUT:
+<img width="1900" height="909" alt="Image" src="https://github.com/user-attachments/assets/9b756216-e4c9-4ab2-abc5-f2f7b3493e3e" />
+
